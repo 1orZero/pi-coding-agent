@@ -24,6 +24,7 @@ export const THEME_MAP: Record<string, string> = {
 	"agent-chain":        "midnight-ocean",   // deep sequential pipeline
 	"agent-team":         "dracula",          // rich orchestration palette
 	"cross-agent":        "ocean-breeze",     // cross-boundary, connecting
+	"ctrl-c-esc-indicator":"synthwave",       // merged clear/exit + esc-abort affordance
 	"damage-control":     "gruvbox",          // grounded, earthy safety
 	"minimal":            "synthwave",        // synthwave by default now!
 	"pi-pi":              "rose-pine",        // warm creative meta-agent

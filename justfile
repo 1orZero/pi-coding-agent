@@ -75,6 +75,10 @@ ext-session-replay:
 ext-theme-cycler:
     pi -e extensions/theme-cycler.ts -e extensions/minimal.ts
 
+# 17. Ctrl-C + Esc indicator: Ctrl-C first clears/second exits, Esc first blocks/second aborts
+ext-ctrl-c-esc-indicator:
+    pi -e extensions/ctrl-c-esc-indicator.ts
+
 # utils
 
 # Open pi with one or more stacked extensions in a new terminal: just open minimal tool-counter
